@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.5.1)
+  - FontAwesome.swift (1.2.0)
+  - IQKeyboardManagerSwift (5.0.3)
+  - Kingfisher (4.1.0)
+  - Localize-Swift (1.7.1)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - FontAwesome.swift
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - Localize-Swift (~> 1.7.1)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  FontAwesome.swift: 60063e3f19ba4801155d4b0f2334ab7585763ab3
+  IQKeyboardManagerSwift: e257e513744cf32123eca7061272acea0246fc83
+  Kingfisher: f14df8cbe576bf55f211fa589e9869bceb4ea87d
+  Localize-Swift: 6cabc1087c0e910e77bfa87c2ed3f65c80c0b2df
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 748a5f1d5a6860590b84010888e24357c6065b0d
+
+COCOAPODS: 1.2.1
